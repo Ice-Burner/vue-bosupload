@@ -1,7 +1,7 @@
-# vue-rule
-# this is a simple vue-rule-component
+# vue-bosupload
+# this is a simple vue-bosupload
 
 # Install
 
-- npm install vue-rule-test1 --save-dev
-- cnpm install vue-rule-test1 --save dev
+- npm install vue-bosupload --save-dev
+- cnpm install vue-bosupload --save dev
